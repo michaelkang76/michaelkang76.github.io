@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Universal</title>
-    <link>https://michaelkang76.github.io/categories/</link>
-    <description>Recent content in Categories on Universal</description>
+    <title>Categories on Deepcell 딥러닝 블로그</title>
+    <link>https://starcell.github.io/categories/</link>
+    <description>Recent content in Categories on Deepcell 딥러닝 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://michaelkang76.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language>
+    <lastBuildDate>Wed, 10 Mar 2021 16:47:08 +0900</lastBuildDate><atom:link href="https://starcell.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ccrs</title>
+      <link>https://starcell.github.io/categories/ccrs/</link>
+      <pubDate>Wed, 10 Mar 2021 16:47:08 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/categories/ccrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ncluster</title>
+      <link>https://starcell.github.io/categories/ncluster/</link>
+      <pubDate>Tue, 09 Mar 2021 15:39:46 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/categories/ncluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fstack</title>
+      <link>https://starcell.github.io/categories/fstack/</link>
+      <pubDate>Tue, 09 Mar 2021 11:30:46 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/categories/fstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>일반</title>
+      <link>https://starcell.github.io/categories/%EC%9D%BC%EB%B0%98/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/categories/%EC%9D%BC%EB%B0%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>https://starcell.github.io/categories/lorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starcell.github.io/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

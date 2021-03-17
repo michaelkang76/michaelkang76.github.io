@@ -1,10 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Universal</title>
-    <link>https://michaelkang76.github.io/tags/</link>
-    <description>Recent content in Tags on Universal</description>
+    <title>Tags on Deepcell 딥러닝 블로그</title>
+    <link>https://starcell.github.io/tags/</link>
+    <description>Recent content in Tags on Deepcell 딥러닝 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://michaelkang76.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language>
+    <lastBuildDate>Wed, 10 Mar 2021 16:47:08 +0900</lastBuildDate><atom:link href="https://starcell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cluster</title>
+      <link>https://starcell.github.io/tags/cluster/</link>
+      <pubDate>Wed, 10 Mar 2021 16:47:08 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>container</title>
+      <link>https://starcell.github.io/tags/container/</link>
+      <pubDate>Wed, 10 Mar 2021 16:47:08 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://starcell.github.io/tags/hardware/</link>
+      <pubDate>Wed, 10 Mar 2021 16:47:08 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://starcell.github.io/tags/kubernetes/</link>
+      <pubDate>Wed, 10 Mar 2021 16:47:08 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system</title>
+      <link>https://starcell.github.io/tags/system/</link>
+      <pubDate>Wed, 10 Mar 2021 16:47:08 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://starcell.github.io/tags/deep-learning/</link>
+      <pubDate>Tue, 09 Mar 2021 15:39:46 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://starcell.github.io/tags/image/</link>
+      <pubDate>Tue, 09 Mar 2021 11:30:46 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://starcell.github.io/tags/tensorflow/</link>
+      <pubDate>Tue, 09 Mar 2021 11:30:46 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://starcell.github.io/tags/ai/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://starcell.github.io/tags/coding/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://starcell.github.io/tags/programming/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>딥러닝</title>
+      <link>https://starcell.github.io/tags/%EB%94%A5%EB%9F%AC%EB%8B%9D/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/%EB%94%A5%EB%9F%AC%EB%8B%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>인공지능</title>
+      <link>https://starcell.github.io/tags/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>코딩</title>
+      <link>https://starcell.github.io/tags/%EC%BD%94%EB%94%A9/</link>
+      <pubDate>Tue, 09 Mar 2021 10:30:20 +0900</pubDate>
+      
+      <guid>https://starcell.github.io/tags/%EC%BD%94%EB%94%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipsum</title>
+      <link>https://starcell.github.io/tags/ipsum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://starcell.github.io/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
